@@ -1,0 +1,1 @@
+For Week-1 exercises, I set up and work on Java projects without using any build tools (e.g. Maven, Gradle etc.) in vscode and each exercise contains individual packages. To test each exercise code in Linux just run the `test.sh` file in bash.
