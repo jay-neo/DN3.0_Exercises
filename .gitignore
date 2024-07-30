@@ -41,3 +41,5 @@ build/
 .mvn
 mvnw.*
 mvnw
+gradle
+gradlew.*
